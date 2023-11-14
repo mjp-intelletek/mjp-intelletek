@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested in Web app development & AI | LLM
+- 🌱 I’m currently learning Web development because you never stop learning it 
+- 💞️ I’m looking to collaborate on something fun i can learn something from
+- 📫 How to reach me mjpieruszka@gmail.com
